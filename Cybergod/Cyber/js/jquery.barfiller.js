@@ -3,9 +3,7 @@
 * Version: 1.0.1
 * Description: A plugin that fills bars with a percentage you set.
 * Author: 9bit Studios
-* Copyright 2012, 9bit Studios
-* http://www.9bitstudios.com
-* Free to use and abuse under the MIT license.
+* Copyright 2012, 9bit Studios.
 * http://www.opensource.org/licenses/mit-license.php
 */
 

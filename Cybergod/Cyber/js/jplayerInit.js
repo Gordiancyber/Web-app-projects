@@ -1,4 +1,4 @@
-// jPlayer Initialization
+
 
 (function($) {
 

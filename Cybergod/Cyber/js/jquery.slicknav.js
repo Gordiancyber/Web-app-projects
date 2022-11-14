@@ -572,7 +572,7 @@
                 // Tests that there's already a plugin-instance and checks that the requested public method exists
                 if (instance instanceof Plugin && typeof instance[options] === 'function') {
 
-                    // Call the method of our plugin instance, and pass it the supplied arguments.
+                    
                     returns = instance[options].apply( instance, Array.prototype.slice.call( args, 1 ) );
                 }
             });
